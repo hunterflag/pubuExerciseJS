@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pubuExerciseJS Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-
+<!-- T -->
 	<properties>
 		<compiler.version>1.8</compiler.version>
 		<servlet.version>3.1.0</servlet.version>

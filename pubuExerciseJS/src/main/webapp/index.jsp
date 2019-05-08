@@ -7,7 +7,7 @@
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script type="text/javascript" src="js/DevTools.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
-<title>測試首頁</title>
+<title>JDBC+Servlet測試首頁</title>
 </head>
 <body>
 	<header>
